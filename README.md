@@ -1,54 +1,104 @@
-[![Join the chat at https://gitter.im/pcqpcq/open-source-android-apps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pcqpcq/open-source-android-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145) [![](https://img.shields.io/badge/habrahabr.ru-%2395%20-lightgrey.svg)](http://habrahabr.ru/post/253713/)
+# 🌐 Open-Source Android Apps 2025
 
-# Why?
-> This is a collection of Android Apps which are open source.  
-> I believe that we can find something interesting and gain helpful skills from an open source app.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
+---
+
+## 🔍 Why Open-Source?
+
+> This is a curated **collection of Android Apps** that are completely **open source**.\
+> Open-source apps provide **transparency, learning opportunities, and collaboration**.\
+> This project is inspired by [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps).
+
+---
+
+## 🌐 How to Contribute?
+
+> - **🔄 Discover** – Explore and find useful open-source Android apps.
+> - **📈 Improve** – [Star](https://github.com/pcqpcq/open-source-android-apps/stargazers) & [Fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) the repository.
+> - **🛠️ Contribute** – Found a missing app? Submit a **[Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls)**.
+> - **🌐 Organize** – Apps are categorized to make navigation easier.
+
+---
+
+## 💳 Categories of Open-Source Apps
+
+| Category                                             | Description                                            |
+| ---------------------------------------------------- | ------------------------------------------------------ |
+| [Android TV](categories/android_tv.md)               | Apps optimized for **Android TV**.                     |
+| [Android Wear](categories/android_wear.md)           | Apps for **Wear OS (Smartwatches)**.                   |
+| [Communication](categories/communication.md)         | Messaging, email, and social communication apps.       |
+| [Education](categories/education.md)                 | Educational apps, learning platforms, and tools.       |
+| [Finance](categories/finance.md)                     | Banking, investment, and budgeting apps.               |
+| [Game](categories/game.md)                           | Open-source games for Android.                         |
+| [Health & Fitness](categories/health_fitness.md)     | Apps for workouts, meditation, and health tracking.    |
+| [LifeStyle](categories/life_style.md)                | Apps for home, hobbies, and entertainment.             |
+| [Multi-Media](categories/multi_media.md)             | Music, video, and photo management apps.               |
+| [News & Magazines](categories/news_and_magazines.md) | Apps for staying informed with news.                   |
+| [Personalization](categories/personalization.md)     | Launchers, widgets, and theme customization.           |
+| [Productivity](categories/productivity.md)           | To-do lists, note-taking, and workflow tools.          |
+| [Social Network](categories/social_network.md)       | Open-source social networking apps.                    |
+| [Tools](categories/tools.md)                         | Utility apps, security tools, and development helpers. |
+| [Travel & Local](categories/travel_and_local.md)     | Navigation, maps, and travel apps.                     |
+| [Business](categories/business.md)                   | Tools for professional and enterprise use.             |
+
+---
+
+## 📚 Contribution Rules
+
+> 1. **No spam or low-quality content.**
+> 2. **Avoid duplicate apps.**
+> 3. **One change per commit for clean PRs.** ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
+
+---
+
+## 📝 Frequently Asked Questions (FAQ)
+
+> **💡 Is this redundant with F-Droid?**
+>
+> - No, this project provides additional categorization and curated selections beyond F-Droid. ([Discussion](https://github.com/pcqpcq/open-source-android-apps/issues/16))
+
+> **💡 How often is this list updated?**
+>
+> - The list is regularly maintained and updated with new high-quality open-source apps.
+
+> **💡 Can I submit my own project?**
+>
+> - Yes! Open a **Pull Request** with your project details.
+
+> **💡 What if an app is no longer maintained?**
+>
+> - Apps that are no longer maintained may be removed from the list, but their repositories will still be available.
+
+---
+
+## 💬 Share & Support
+
+> Like this project? **Spread the word!** 🚀
+
+### 📣 Ways to Support
+- **⭐ Star & Fork the Repository** – Show your support by starring and forking the project on GitHub.
+- **📢 Share on Social Media** – Spread awareness by sharing this project on Twitter, Facebook, and LinkedIn.
+- **💡 Contribute Code** – Found an issue? Open a **Pull Request** with your fix or improvement.
+- **💬 Engage in Discussions** – Join our [Gitter Chat](https://gitter.im/pcqpcq/open-source-android-apps) and connect with the community.
+- **☕ Buy Me a Coffee** – Support the project through donations if you find it useful.
+
+> Like this project? **Spread the word!** 🚀
+
+---
+
+## 🚀 Continuous Integration & Builds
+
+> This project uses **Continuous Integration (CI) pipelines** to ensure **code quality, stability, and seamless contributions**.
+
+### ⚙️ Build & Testing Process:
+- **🔄 Automated Testing** – Runs unit and integration tests on every commit.
+- **✅ Code Quality Checks** – Linting and static analysis for best practices.
+- **📦 Continuous Deployment** – Ensures up-to-date releases and distribution.
+
+### 🔗 CI/CD Services:
+- **[Travis CI](https://travis-ci.org/pcqpcq/open-source-android-apps/builds)** – Build automation and testing.
+- **[GitHub Actions](https://github.com/pcqpcq/open-source-android-apps/actions)** – Workflow automation for PRs and merges.
+
+[![Build Status](https://travis-ci.org/pcqpcq/open-source-android-apps.svg?branch=master)](https://travis-ci.org/pcqpcq/open-source-android-apps/builds)
 
 
-# How?
-> I'll push awesome projects when I find any.  
-> It's WELCOMED for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
-> If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
-> All applications are sorted in various categories.   
-
-
-# What?
-| Name of category | What's inside |
-  ---------------- | ------------- 
-[Android TV](categories/android_tv.md) | Apps for Android TV. 
-[Android Wear](categories/android_wear.md) | Apps for Android Wear. 
-[Communication](categories/communication.md) | Apps like Messager, Hangout, Gmail... 
-[Education](categories/education.md) | Apps about education. 
-[Finance](categories/finance.md) | Apps about finance. 
-[Game](categories/game.md) | All games for Android. 
-[Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. 
-[LifeStyle](categories/life_style.md) | Apps about our life. 
-[Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... 
-[News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. 
-[Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... 
-[Productivity](categories/productivity.md) | Apps like Any.Do, Evernote... 
-[Social Network](categories/social_network.md) | Apps like Twitter, Facebook, GitHub, Dribbble... 
-[Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard...
-[Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.
-[Business](categories/business.md) | Apps for the improvement of your business.
-[CNSoftBei](https://github.com/kensoon/awesome-cnsoftbei) | Apps of the cnsoftbei.
-
-# Contribute Rules
-> 1. Don't do evil.
-> 2. Don't repeat yourself.
-> 3. Only make one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
-
-
-# FAQ
-> * [Redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
-
-
-# Share  
-> Like this project? Why not share to your friend :)  
->   
-> <a href="https://twitter.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20Android%20open%20source%20apps.%20Made%20by%20@pcq019.%20https://github.com/pcqpcq/open-source-android-apps" target="_blank" title="share to twitter" style="width:100%"><img src="http://i.imgur.com/GlSWEr7.png" title="share to twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/pcqpcq/open-source-android-apps" target="_blank" title="share to facebook" style="width:100%"><img src="http://i.imgur.com/0evE2QJ.png" title="share to facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?searchPic=false&title=Android%25E5%25BC%2580%25E6%25BA%2590%25E5%25BA%2594%25E7%2594%25A8%25E9%259B%2586%25E5%2590%2588%2520by%2520@pcqpcq%2520&url=https://github.com/pcqpcq/open-source-android-apps&utm_content=share_button&utm_campaign=post_show&utm_medium=github&utm_source=weibo" target="_blank" title="share to sina weibo" style="width:100%"><img src="http://i.imgur.com/pH9q4qu.png" title="share to sina weibo"/></a>
-
-
-[![Build Status](https://travis-ci.org/pcqpcq/open-source-android-apps.svg?branch=master)](https://travis-ci.org/pcqpcq/open-source-android-apps/builds "Travis CI")
 
