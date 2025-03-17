@@ -1,4 +1,4 @@
-# 📈 Open-Source Android Business Applications (2025)
+# 📈 Open-Source Android Business Applications 2025
 
 ## Overview
 This document provides a curated list of open-source Android applications tailored for business use as of 2025. These applications are designed to enhance productivity, streamline operations, and support various business functions.
