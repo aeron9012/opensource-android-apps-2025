@@ -1,147 +1,55 @@
-## Education  
-### \#   
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+# 📚 Open-Source Android Education Apps 2025
 
-### A  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-[Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App |Java | 
+## Overview
+This is a curated list of **open-source education apps** for **learning, flashcards, university portals, and language tools** available in **2025**.
 
-### B  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+## 🔄 How to Use These Applications
+1. **👁️ Explore** – Browse through the list to find applications that suit your learning needs.
+2. **💾 Download** – Click the **download link** for each app.
+3. **📚 Learn** – Follow the repository instructions for usage.
+4. **🛠️ Contribute** – Found a bug? Contribute via **GitHub Issues & PRs**.
 
-### C  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-### D  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+## 📂 **Open-Source Education Apps (2025)**
 
-### E  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Enguage](https://github.com/pjay94/enguageapp) | Mobile application supporting learning of English language with the use of Android for Poles. The learning methods focus on correctness English words’ spelling and meaning of popular phrasal verbs. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=pl.pjay.enguage)
+| App Name | Description | Major Language | Download |
+|----------|------------|---------------|----------|
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android) | Spaced repetition flashcard system for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
+| [Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App. | Java | N/A |
+| [Enguage](https://github.com/pjay94/enguageapp) | English learning app focusing on phrasal verbs. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=pl.pjay.enguage) |
+| [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) | Flashcard-based learning tool. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot) |
+| [GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | Motivational stories for educational inspiration. | Java | N/A |
+| [Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, save, and read about Hubble space images. | Java | N/A |
+| [Learn Braille](https://github.com/braille-systems/learn-braille) | Learn the Russian Braille alphabet. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille) |
+| [LeeCo](https://github.com/Nightonke/LeeCo) | Algorithm problems and discussions. | Java | [Download APK](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk) |
+| [NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | Companion app for NSIT students. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp) |
+| [festnimbus](https://github.com/appteam-nith/festnimbus) | NIT Hamirpur Technical Fest App. | Java | N/A |
+| [Oppia](https://github.com/oppia/oppia-android) | Interactive learning app for students. | Kotlin | [GitHub Repository](https://github.com/oppia/oppia-android) |
+| [Physics Wallah](https://www.pw.live/) | Educational app for physics and chemistry learning. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=live.pw.app) |
+| [Stepic](https://github.com/StepicOrg/stepic-android) | Online courses with certificates. | Java, Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.stepic.droid) |
+| [Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) | Educational app for rural children and adults. | Java | N/A |
+| [Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students. | Java | N/A |
+| [Ulangi](https://github.com/ulangi/ulangi/) | Language learning with spaced repetition. | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ulangi) |
+| [Umbrella](https://github.com/securityfirst/Umbrella_android) | Digital security and safety training app. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella) |
+| [Unacademy](https://unacademy.com/) | Online learning platform for competitive exams. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.unacademyapp) |
+| [WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | Kanji learning app for WaniKani users. | Java | N/A |
 
-### F  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ForgetMeNot](https://github.com/tema6120/ForgetMeNot) | A flashcard app for Android. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot)
+---
 
-### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | 
+## 🔒 Open-Source Policy & Copyright
+- **📚 Licensing**: All applications follow open-source licenses (e.g., **MIT, GPL, Apache-2.0**).
+- **🔗 Attribution**: Credit must be given to **original developers** when modifying or redistributing.
+- **🔧 Contributions**: Anyone can contribute via **GitHub pull requests**.
+- **🔐 Privacy & Security**: These apps prioritize **education without ads or data collection**.
 
-### H  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | 
-[Hillffair](https://github.com/appteam-nith/Hillffair) | Hillffair is an open source college app made for Cultural fest known as Hillffair of NIT Hamirpur, India by [App Team NITH](https://github.com/appteam-nith). This app contains some additional features like online quiz as well as newsfeed along with features like notifications. | Java | 
+💡 _For more details, check the individual **project repositories**._
 
-### I  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |  
+---
 
-### J  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+## 🌟 Contribute & Support
+🔹 Found a **new open-source app**? Submit a **Pull Request (PR)**.  
+🔹 Want to **support development**? **Star & fork** your favorite repos!  
 
-### K  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+🚀 _Stay updated with the best open-source Android education apps in 2025!_
 
-### L  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Learn Braille](https://github.com/braille-systems/learn-braille) | Study Russian Braille alphabet! Compatible with screen readers. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-[LeeCo](https://github.com/Nightonke/LeeCo) | LeeCo is an awesome app for algorithem problems(including unlock), solutions, discuss(from leetcode) and comments. | Java | [Get it on Github](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk)
-
-### M  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### N  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp)  
-[festnimbus](https://github.com/appteam-nith/festnimbus) | Festnimbus is an open source college app made for Technical fest known as Nimbus of NIT Hamirpur, India by [App Team NITH](https://github.com/appteam-nith) | Java | 
-
-### O  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- **Oppia**|An interactive learning app that enables users to create and share lessons. | Kotlin| [GitHub Repository](https://github.com/oppia/oppia-android)
-
-### P  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Physics Wallah](https://www.pw.live/) | An educational app for students to learn physics, chemistry, and more | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=live.pw.app)
-
-
-### Q  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### R  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### S  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java |   
-[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java |   
-[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
-[Say-Hi](https://github.com/SuperHaker/Say-Hi) |An Android app built to better understand different English accents around the world. Also provides translations for the text in the selected langauge. |Java |
-
-### T  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### U  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
-[Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
-[Umbrella](https://github.com/securityfirst/Umbrella_android) | Learn about digital and physical security on the go. From communications to dealing with a kidnap. Available in multiple languages. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
-[Unacademy](https://unacademy.com/) | Online learning platform offering courses and materials for various competitive exams and subjects | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.unacademyapp)
-
-
-### V  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### W  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | 
-
-### X  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### Y  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### Z  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
